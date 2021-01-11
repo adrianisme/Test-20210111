@@ -15,4 +15,7 @@ Some more dummy text. 25 minutes until lunch
 * one more
 
 ![](googlelogo_color_272x92dp.png)
-![](https://github.com/adrianisme/Test-20210111/blob/main/googlelogo_color_272x92dp.png)
+
+* ![](https://github.com/adrianisme/Test-20210111/blob/main/googlelogo_color_272x92dp.png) blob won't work
+
+![](https://adrianisme.github.io/Test-20210111/googlelogo_color_272x92dp.png)
