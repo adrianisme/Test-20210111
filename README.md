@@ -10,6 +10,8 @@ Some more dummy text. 25 minutes until lunch
 * Cloud with Gilbert
 * docker - if time permits
 * hand out reading assignments and homework!
+* kubernetes?
+* that's it, really!
 
 ![](googlelogo_color_272x92dp.png)
 ![](https://github.com/adrianisme/Test-20210111/blob/main/googlelogo_color_272x92dp.png)
