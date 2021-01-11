@@ -12,6 +12,7 @@ Some more dummy text. 25 minutes until lunch
 * hand out reading assignments and homework!
 * kubernetes?
 * that's it, really!
+* one more
 
 ![](googlelogo_color_272x92dp.png)
 ![](https://github.com/adrianisme/Test-20210111/blob/main/googlelogo_color_272x92dp.png)
